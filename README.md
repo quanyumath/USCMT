@@ -20,7 +20,7 @@ year = {},
 issn = {},
 doi = {https://doi.org/},
 url = {},
-author = {Quan Yu, Yu-Hong Dai, Lu-Bin Cui, Shahin Gelareh and Ming Yang}
+author = {Quan Yu, Yu-Hong Dai, Lu-Bin Cui, Shahin Gelareh and Minru Bai}
 }
 ```
 
