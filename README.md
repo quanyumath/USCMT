@@ -4,7 +4,7 @@ This is MATLAB implementation of paper "[A Unified Spatio-Temporal and Coupled M
 
 [📦 Dataset](https://doi.org/10.5281/zenodo.15833183) 
 
-If you have questions about the code, please email: quanyu@tju.edu.cn
+If you have questions about the code, please email: quanyu@ccnu.edu.cn
 
 Academic Homepage: https://quanyu.netlify.app/
 
