@@ -13,10 +13,10 @@ If these codes and dataset are helpful for you, please cite this paper:
 ```
 @article{YDCGB26,
 title = {A Unified Spatio-Temporal and Coupled Multi-View Tensor Framework for Simultaneous Traffic Data Reconstruction and Event Detection},
-journal = {},
-volume = {},
+journal = {Transportation Research Part C: Emerging Technol},
+volume = {193},
 pages = {},
-year = {},
+year = {2026},
 issn = {},
 doi = {https://doi.org/10.1016/j.trc.2026.105967},
 url = {},
